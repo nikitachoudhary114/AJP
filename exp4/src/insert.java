@@ -8,7 +8,7 @@ public class insert {
         // Database credentials
         String url = "jdbc:mysql://localhost:3306/jdbc";
         String user = "root";
-        String password = "Choudhary123";
+        String password = "";
 
         try {
             // Load MySQL JDBC Driver
