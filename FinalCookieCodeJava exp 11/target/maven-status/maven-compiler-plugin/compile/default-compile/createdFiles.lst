@@ -1,0 +1,3 @@
+com\example\logindemo\LoginServlet.class
+com\example\logindemo\LogoutServlet.class
+com\example\logindemo\WelcomeServlet.class
