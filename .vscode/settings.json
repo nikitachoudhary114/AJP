@@ -1,0 +1,8 @@
+{
+  "C_Cpp.errorSquiggles": "disabled",
+  "git.ignoreLimitWarning": true,
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Users\\Nikita\\Downloads\\jdbc\\lib\\mysql-connector-j-9.2.0\\mysql-connector-j-9.2.0\\mysql-connector-j-9.2.0.jar"
+  ]
+}
